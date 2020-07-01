@@ -72,6 +72,9 @@ private String password;
 }
 
 ```
+5. conectamos con la base de datos de firebase
+![](https://raw.githubusercontent.com/SANMH/prueba1_topicos/master/assets/base.png)
+
 
 4. Agregamos y configuramos nuestro menu: agregar, actualizar, borrar
 ![](https://raw.githubusercontent.com/SANMH/prueba1_topicos/master/assets/3.png)
@@ -117,8 +120,10 @@ private String password;
 
 ![](https://raw.githubusercontent.com/SANMH/prueba1_topicos/master/assets/6.png)
 
+![](https://raw.githubusercontent.com/SANMH/prueba1_topicos/master/assets/9.png)
 
 
+https://prueba1-82014.firebaseio.com/
 
 
 
